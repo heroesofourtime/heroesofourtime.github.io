@@ -1,0 +1,1 @@
+var loadTime=window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart;console.info("Page load time is "+loadTime+"ms"),window.addEventListener("load",function(){document.getElementById("date").innerHTML=(new Date).getFullYear()});

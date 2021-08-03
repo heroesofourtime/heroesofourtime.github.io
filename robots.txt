@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /js/
+Disallow: /index.html
+Host: heroesofourtime.github.io
+Sitemap: https://heroesofourtime.github.io/sitemap.xml
